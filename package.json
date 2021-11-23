@@ -2,7 +2,7 @@
   "name": "googlebooks-app",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://leci1259.github.io/bibliophilia-",
+  "homepage": "https://leci1259.github.io/bibliophilia",
   "main": "server/server.js",
   "scripts": {
     "predeploy": "npm run build",
